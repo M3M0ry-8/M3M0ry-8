@@ -1,4 +1,4 @@
-<h1>- 👋 Hi, I’m @M3M0ry-8</h1>
+- 👋 Hi, I’m @M3M0ry-8
 - 👀 I’m interested lots of things
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on some tools
