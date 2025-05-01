@@ -1,9 +1,3 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?M3M0ry-8=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-
-
 - 👋 Hi, I’m @M3M0ry-8
 - 👀 I’m interested lots of things
 - 🌱 I’m currently learning everything
