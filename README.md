@@ -1,7 +1,6 @@
  - 👋 Hi, I’m @M3M0ry-8
  - 👀 I’m interested lots of things
  - 🌱 I’m currently learning C++
- - 🌱 I’m currently learning everything
  - 💞️ I’m looking to collaborate on some tools
  - 😄 Pronouns: computer
  - I had an account since 2018 but it got lost
