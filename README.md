@@ -1,9 +1,8 @@
 
 
-<div style="display: flex; align-items: center; gap: 20px;">
-
+<div style="display: flex; align-items: flex-start; justify-content: space-between;">
   <div>
-    <p>👋 Hi, I’m jaap</p>
+    <p>👋 Hi, I’m M3M0ry-8</p>
     <p>👀 I’m interested in lots of things</p>
     <p>🌱 I’m currently learning C++</p>
     <p>🌱 I’m currently learning everything</p>
@@ -13,8 +12,8 @@
   </div>
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=M3M0ry-8&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
-
 </div>
+
 
 
 
